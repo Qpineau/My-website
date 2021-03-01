@@ -71,8 +71,8 @@ const Home = () => {
         <div className={Who ? "Who-hidden" : "Who-show"}>
           <div className="Who-show-text">
             <p>
-              &emsp; Born in France, raised in Senegal, I have spent the last 10
-              years working as a salesman, restaurant owner and bartender. I
+              &emsp; " Born in France, raised in Senegal, I have spent the last
+              10 years working as a salesman, restaurant owner and bartender. I
               have been into computer and coding as a curiosity for a long time
               and I finally decided to step forward and complete a bootcamp in
               React/React Native at
@@ -83,7 +83,7 @@ const Home = () => {
             </p>
             <p>
               &emsp; I am currently looking for an internship in order to
-              perfect my coding skills
+              perfect my coding skills "
             </p>
           </div>
         </div>
