@@ -1,19 +1,31 @@
 import React from "react";
 import { useState } from "react";
-import logo_cloudinary from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/cloudinary_logo_wym8js.svg";
-import logo_react from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/reactjs-icon_lv8n91.svg";
-import logo_mongo from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/MongoDB-Logo_u4yswl.svg";
-import logo_HTML from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
-import logo_CSS from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/CSS-logo_evxei2.svg";
-import logo_Node from "https://res.cloudinary.com/quentin/image/upload/v1617119227/Website/Node-logo_xsv81r.svg";
-import logo_LinkedIn from "https://res.cloudinary.com/quentin/image/upload/v1617119224/Website/LinkedIn-Logo_ms5ic6.svg";
-import logo_Github from "https://res.cloudinary.com/quentin/image/upload/v1617119222/Website/Github-logo_kawham.png";
-import logo_Vinted from "https://res.cloudinary.com/quentin/image/upload/v1617119233/Website/Vinted_logo_jgehgu.png";
-import logo_Marvel from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/Marvel-Comics-Logo_red9dz.png";
 import { FaFilePdf, FaEnvelope } from "react-icons/fa";
 import CV from "../Assets/CV/CV_dev_Quentin_Pineau.pdf";
 
 const Home = () => {
+  const logo_cloudinary =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/cloudinary_logo_wym8js.svg";
+  const logo_react =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/reactjs-icon_lv8n91.svg";
+  const logo_mongo =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
+  const logo_HTML =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
+
+  const logo_CSS =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/CSS-logo_evxei2.svg";
+  const logo_Node =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119227/Website/Node-logo_xsv81r.svg";
+  const logo_LinkedIn =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119224/Website/LinkedIn-Logo_ms5ic6.svg";
+  const logo_Github =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119222/Website/Github-logo_kawham.png";
+  const logo_Vinted =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119233/Website/Vinted_logo_jgehgu.png";
+  const logo_Marvel =
+    "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/Marvel-Comics-Logo_red9dz.png";
+
   const [Who, SetWho] = useState(true);
   const [Stacks, SetStacks] = useState(true);
   const [Projects, SetProjects] = useState(true);
