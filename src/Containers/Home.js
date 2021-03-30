@@ -1,15 +1,15 @@
 import React from "react";
 import { useState } from "react";
-import logo_cloudinary from "../Assets/Images/cloudinary_logo.svg";
-import logo_react from "../Assets/Images/reactjs-icon.svg";
-import logo_mongo from "../Assets/Images/MongoDB-Logo.svg";
-import logo_HTML from "../Assets/Images/HTML-logo.svg";
-import logo_CSS from "../Assets/Images/CSS-logo.svg";
-import logo_Node from "../Assets/Images/Node-logo.svg";
-import logo_LinkedIn from "../Assets/Images/LinkedIn-Logo.svg";
-import logo_Github from "../Assets/Images/Github-logo.png";
-import logo_Vinted from "../Assets/Images/Vinted_logo.png";
-import logo_Marvel from "../Assets/Images/Marvel-Comics-Logo.png";
+import logo_cloudinary from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/cloudinary_logo_wym8js.svg";
+import logo_react from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/reactjs-icon_lv8n91.svg";
+import logo_mongo from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/MongoDB-Logo_u4yswl.svg";
+import logo_HTML from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
+import logo_CSS from "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/CSS-logo_evxei2.svg";
+import logo_Node from "https://res.cloudinary.com/quentin/image/upload/v1617119227/Website/Node-logo_xsv81r.svg";
+import logo_LinkedIn from "https://res.cloudinary.com/quentin/image/upload/v1617119224/Website/LinkedIn-Logo_ms5ic6.svg";
+import logo_Github from "https://res.cloudinary.com/quentin/image/upload/v1617119222/Website/Github-logo_kawham.png";
+import logo_Vinted from "https://res.cloudinary.com/quentin/image/upload/v1617119233/Website/Vinted_logo_jgehgu.png";
+import logo_Marvel from "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/Marvel-Comics-Logo_red9dz.png";
 import { FaFilePdf, FaEnvelope } from "react-icons/fa";
 import CV from "../Assets/CV/CV_dev_Quentin_Pineau.pdf";
 
