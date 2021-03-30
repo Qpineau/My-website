@@ -82,8 +82,8 @@ const Home = () => {
               at the end of 2020.
             </p>
             <p>
-              &emsp; I am currently looking for an internship in order to
-              perfect my coding skills "
+              &emsp; I am currently looking for a first job or freelance
+              missions in order to perfect my coding skills "
             </p>
           </div>
         </div>
