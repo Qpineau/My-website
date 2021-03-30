@@ -30,7 +30,7 @@
 /* HOME */
 
 .Home-container {
-  background-image: url("./Assets/Images/face1.jpeg");
+  background-image: url("https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/face1_fwd1er.jpg");
   background-size: contain;
   background-position: right;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@
   display: flex;
   height: 100vh;
   width: 80vw;
-  background-image: url("./Assets/Images/face2.jpeg");
+  background-image: url("https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/face2_artmoy.jpg");
   background-size: contain;
   background-position: 78px;
   background-repeat: no-repeat;
@@ -132,7 +132,7 @@
   display: flex;
   height: 100vh;
   width: 80vw;
-  background-image: url("./Assets/Images/face2.jpeg");
+  background-image: url("https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/face2_artmoy.jpg");
   background-size: contain;
   background-position: 78px;
   background-repeat: no-repeat;
@@ -166,7 +166,7 @@
   display: flex;
   height: 100vh;
   width: 80vw;
-  background-image: url("./Assets/Images/face2.jpeg");
+  background-image: url("https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/face2_artmoy.jpg");
   background-size: contain;
   background-position: 78px;
   background-repeat: no-repeat;
@@ -209,7 +209,7 @@
   display: flex;
   height: 100vh;
   width: 80vw;
-  background-image: url("./Assets/Images/face2.jpeg");
+  background-image: url("https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/face2_artmoy.jpg");
   background-size: contain;
   background-position: 78px;
   background-repeat: no-repeat;
