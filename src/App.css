@@ -99,7 +99,7 @@
 
 .Who-show-text {
   margin-left: 5vw;
-  margin-top: 25vh;
+  margin-top: 15vh;
   margin-right: 55vh;
   font-size: 20px;
   height: 100vh;
@@ -108,6 +108,27 @@
   align-items: center;
   flex-wrap: wrap;
   text-align: justify;
+}
+
+.Me {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-right: 30px;
+}
+
+.Portrait {
+  height: 150px;
+  width: 150px;
+  transform: rotate(15deg);
+  border-radius: 100%;
+  border: solid 2px white;
+}
+
+.Name {
+  font-size: 40px;
+  font-weight: bold;
 }
 
 .Who-show-text p {

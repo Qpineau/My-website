@@ -25,6 +25,8 @@ const Home = () => {
     "https://res.cloudinary.com/quentin/image/upload/v1617119233/Website/Vinted_logo_jgehgu.png";
   const logo_Marvel =
     "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/Marvel-Comics-Logo_red9dz.png";
+  const portrait =
+    "https://res.cloudinary.com/quentin/image/upload/v1617206034/Website/portrait_vftfiw.jpg";
 
   const [Who, SetWho] = useState(true);
   const [Stacks, SetStacks] = useState(true);
@@ -82,6 +84,10 @@ const Home = () => {
       <div className="Content">
         <div className={Who ? "Who-hidden" : "Who-show"}>
           <div className="Who-show-text">
+            <div className="Me">
+              <img className="Portrait" src={portrait} alt="portrait" />
+              <div className="Name">Quentin Pineau</div>
+            </div>
             <p>
               &emsp; " Born in France, raised in Senegal, I have spent the last
               10 years working as a salesman, restaurant owner and bartender. I
