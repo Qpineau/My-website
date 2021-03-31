@@ -9,7 +9,7 @@ const Home = () => {
   const logo_react =
     "https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/reactjs-icon_lv8n91.svg";
   const logo_mongo =
-    "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
+    " https://res.cloudinary.com/quentin/image/upload/v1617119229/Website/MongoDB-Logo_u4yswl.svg";
   const logo_HTML =
     "https://res.cloudinary.com/quentin/image/upload/v1617119221/Website/HTML-logo_o7k2nf.svg";
 
